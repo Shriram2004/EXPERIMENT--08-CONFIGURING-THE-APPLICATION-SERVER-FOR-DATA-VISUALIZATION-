@@ -16,8 +16,7 @@ As the application server market matures, high performance becomes a stronger cr
  3.Click on the Add dashboard option as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8006c218-4cfd-48b8-b0f1-34fd29f0a181)
  4.After creating dash board , using the edit option on the right corner  add the widgets as shown 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/16621142-3281-4164-9927-65bf4e1ea13d)
-
+![image](https://github.com/kaviya2839/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120553351/2fec7876-4656-4d82-9c7c-5de9fc6c9f71)
 5. After addition of the widget on the data dash board the data should appear as shown belwo 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/f9f02c5b-ae17-436f-be3a-17c5e66d63a0)
 6. Create a query as shown below 
@@ -28,8 +27,10 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+
+![image](https://github.com/kaviya2839/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120553351/846fd7d7-c3f7-4d29-97c4-d85fbed8647f)
+
+![image](https://github.com/kaviya2839/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120553351/569213b1-2649-4b6a-9a85-7c8860fd0e65)
 
 
 
